@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Short description" section_id="bccf3005dbe00010447cb080399619d1" sys_domain="global" table="x_297669_innovate_innovate" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_short_description</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-15 14:42:21</sys_created_on>
+            <sys_id>b4cfb005dbe00010447cb0803996194a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Short description" display_value="Short description" name="x_297669_innovate_innovate" sys_domain="global" view="Default view">bccf3005dbe00010447cb080399619d1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-15 14:42:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Short description</caption>
+            <header>false</header>
+            <name>x_297669_innovate_innovate</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-15 14:42:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bccf3005dbe00010447cb080399619d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Short description</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Innovate" source="x_297669_innovate">a72f63e4db200010447cb08039961904</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Innovate">a72f63e4db200010447cb08039961904</sys_scope>
+            <sys_update_name>sys_ui_section_bccf3005dbe00010447cb080399619d1</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-15 14:42:21</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
